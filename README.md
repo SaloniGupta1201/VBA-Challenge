@@ -7,9 +7,8 @@ Background
 Stock Data - Run your scripts on this data to generate the final homework report.
 
 
-
 Stock market analyst
-
+-----------------------------
 
 Instructions
 
@@ -40,7 +39,7 @@ The result should look as follows.
 
 
 CHALLENGES
-
+----------------------
 Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
 
