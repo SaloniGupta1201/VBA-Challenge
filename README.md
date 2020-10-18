@@ -1,6 +1,8 @@
 # VBA-Challenge
 VBA-Challenge
-VBA Homework - The VBA of Wall Street
+**Submitted By: ** Saloni Gupta
+_Date_: september, 29th, 2020
+VBA Homework - **The VBA of Wall Street**
 
 Background
 
@@ -26,8 +28,6 @@ The percent change from opening price at the beginning of a given year to the cl
 
 
 The total stock volume of the stock.
-
-
 
 
 You should also have conditional formatting that will highlight positive change in green and negative change in red.
