@@ -1,8 +1,8 @@
-# VBA-Challenge\
+# VBA-Challenge
 
 **Submitted By:** Saloni Gupta\
 _Date_: september, 29th, 2020\
-VBA Homework - **The VBA of Wall Street**\
+VBA Homework - **The VBA of Wall Street**
 
 Background\
 Use VBA scripting to analyze real stock market data.\
@@ -34,15 +34,14 @@ You should also have conditional formatting that will highlight positive change 
 
 The result should look as follows.
 
-![Homework Image](Desktop/moderate_solution)
+![Homework Image](C:\Users\gupta\Documents\GitHub\Python-Challenge)
 
 
 CHALLENGES
 ----------------------
-Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
+1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
 
-
-Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+2.Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
 
