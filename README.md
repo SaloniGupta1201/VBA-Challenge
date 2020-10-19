@@ -34,7 +34,7 @@ You should also have conditional formatting that will highlight positive change 
 
 The result should look as follows.
 
-![Homework Image](VBA-Challenge/moderate_solution.png)
+![Homework Image](moderate_solution.png)
 
 
 CHALLENGES
