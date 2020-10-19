@@ -1,12 +1,12 @@
-# VBA-Challenge
-VBA-Challenge
-**Submitted By:** Saloni Gupta
-_Date_: september, 29th, 2020
-VBA Homework - **The VBA of Wall Street**
+# VBA-Challenge\
 
-Background
-Use VBA scripting to analyze real stock market data.
-Stock Data - Run your scripts on this data to generate the final homework report.
+**Submitted By:** Saloni Gupta\
+_Date_: september, 29th, 2020\
+VBA Homework - **The VBA of Wall Street**\
+
+Background\
+Use VBA scripting to analyze real stock market data.\
+Stock Data - Run your scripts on this data to generate the final homework report.\
 
 
 Stock market analyst
